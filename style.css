@@ -1,0 +1,27 @@
+body {
+  font-family: Times New Roman, serif;  /* Use Times New Roman font */
+  margin: 2rem;
+  background-color: #ffc0cb;  /* Light pink color */
+}
+
+h1 {
+  text-align: center;
+}
+
+button {
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#secret-image {
+  max-width: 500px;  /* Adjust as needed */
+  display: none;  /* Initially hide the image */
+  margin: 0 auto;
+  transition: opacity 0.5s ease-in-out;
+}
+
+#secret-image.hidden {
+  opacity: 1;
+}
