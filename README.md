@@ -7,4 +7,3 @@
  <img id="me" src="Photo on 22-06-24 at 3.38 PM.jpg" alt="lover of sunflower">
 
 </body>
-</html>
