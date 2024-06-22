@@ -11,6 +11,6 @@
  <p>I love you so much, so here's a sunflower for my sunflower:</p>
  <button id="reveal-button">Show Flower</button>
  <img id="flower-image" src="Flower.jpg" alt="Flower">
- </script>
+
 </body>
 </html>
